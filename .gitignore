@@ -1,0 +1,16 @@
+# IDEA
+.idea/
+*.iml
+target/
+
+# Eclipse
+.metadata
+.project
+.classpath
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+

@@ -1,0 +1,12 @@
+- pein
+- kakuzu
+- zetsu
+- hidan
+- orochimaru
+- madara
+- conan
+    - 通用工具集合
+- sasori
+- deidara
+- kisame
+- itachi
