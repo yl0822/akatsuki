@@ -5,7 +5,6 @@
 - orochimaru
 - madara
 - conan
-    - 通用工具集合
 - sasori
 - deidara
 - kisame
